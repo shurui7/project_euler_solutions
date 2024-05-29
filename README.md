@@ -1,6 +1,6 @@
 # What is this project?
 
-This is my solutions to the Project Euler problems, they aren't the best ones by they are working!
+This is my solutions to the Project Euler problems, they aren't the best ones but they are working!
 
 # What is the Project Euler?
 
