@@ -26,3 +26,5 @@ while (Prime_arr.length < num) {
 }
 
 console.log(Prime_arr[num - 1]);
+
+// result 104743
